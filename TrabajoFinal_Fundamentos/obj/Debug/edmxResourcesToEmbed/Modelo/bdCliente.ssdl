@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ELIONETModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CLIENTE">
+    <Key>
+      <PropertyRef Name="DNI_CLIENTE" />
+    </Key>
+    <Property Name="DNI_CLIENTE" Type="numeric" Precision="8" Scale="0" Nullable="false" />
+    <Property Name="NOMBRE_CLIENTE" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="APELLIDO_CLIENTE" Type="nchar" MaxLength="18" Nullable="false" />
+    <Property Name="CORREO_CLIENTE" Type="nchar" MaxLength="30" Nullable="false" />
+    <Property Name="TELEFONO_CLIENTE" Type="numeric" Precision="9" Scale="0" />
+    <Property Name="DIRECCION_CLIENTE" Type="nchar" MaxLength="30" Nullable="false" />
+    <Property Name="CONTRASEÑA_CLIENTE" Type="nchar" MaxLength="12" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ELIONETModelStoreContainer">
+    <EntitySet Name="CLIENTE" EntityType="Self.CLIENTE" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

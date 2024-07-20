@@ -1,0 +1,40 @@
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\Negocios.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\Negocios.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\Datos.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\Datos.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\obj\Debug\Negocios.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\obj\Debug\Negocios.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\ExcelDataReader.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\ExcelDataReader.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\ExcelDataReader.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\itextsharp.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Negocios\bin\Debug\itextsharp.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\Negocios.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\Negocios.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\Datos.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\ExcelDataReader.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\itextsharp.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\Datos.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\ExcelDataReader.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\ExcelDataReader.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\bin\Debug\itextsharp.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\obj\Debug\Negocios.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Negocios\obj\Debug\Negocios.pdb

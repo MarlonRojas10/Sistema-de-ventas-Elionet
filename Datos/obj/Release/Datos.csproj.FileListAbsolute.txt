@@ -1,0 +1,13 @@
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Release\Datos.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Release\Datos.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\obj\Release\Datos.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\obj\Release\Datos.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Release\ExcelDataReader.DataSet.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Release\ExcelDataReader.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Release\ExcelDataReader.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Release\ExcelDataReader.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Release\ExcelDataReader.DataSet.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Release\ExcelDataReader.DataSet.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\obj\Release\Datos.csproj.AssemblyReference.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\obj\Release\Datos.csproj.CopyComplete

@@ -1,0 +1,36 @@
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Debug\Datos.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Debug\Datos.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\obj\Debug\Datos.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\obj\Debug\Datos.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Debug\ExcelDataReader.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Debug\ExcelDataReader.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Debug\ExcelDataReader.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Debug\itextsharp.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\Datos\bin\Debug\itextsharp.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\bin\Debug\Datos.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\bin\Debug\Datos.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\bin\Debug\ExcelDataReader.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\bin\Debug\itextsharp.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\bin\Debug\ExcelDataReader.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\bin\Debug\ExcelDataReader.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\bin\Debug\itextsharp.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\obj\Debug\Datos.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\Datos\obj\Debug\Datos.pdb

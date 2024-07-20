@@ -1,0 +1,201 @@
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.exe.config
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.exe
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\EntityFramework.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\Negocios.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\Datos.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\Negocios.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\EntityFramework.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\Datos.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.AssemblyReference.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_AgregarProducto.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_ListaProductos.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Lista_Cliente.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Error_Registro.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Form1.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.frmListadeProductos.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.frmRealizarPedidos.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.frmVisualizarPedidos.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Login.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Menu_Cliente.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Home.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Inicio.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_PedidosClientes.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Perfil_Cliente.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Properties.Resources.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Registro.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Salida.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.GenerateResource.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.CopyComplete
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\Tienda Elionet.exe
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\Tienda Elionet.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.ResolveComReference.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.PictureCircular.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Foto_Perfil_Cliente.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.exe.manifest
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.application
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\Tienda Elionet.exe.manifest
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\Tienda Elionet.application
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\itextsharp.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Debug\itextsharp.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.BoletadeVenta.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.BoletaCompra.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Visualizar_Compras.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Reportes.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Grafico_Clientes.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Grafico_Ventas.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Lista_Codigos_Productos.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Lista_Codigo_Proveedor.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Menu_Administrador.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Grafico_Compras.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admin_AgregarProveedor.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admin_Agregar_Nuevo_Producto.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Modificar_Stock_Reposicion.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Modificar_Info_Cliente.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.exe.config
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.exe.manifest
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.application
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.exe
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\EntityFramework.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\itextsharp.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\Negocios.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\Datos.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\Negocios.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\EntityFramework.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\itextsharp.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\bin\Debug\Datos.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.AssemblyReference.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.ResolveComReference.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_AgregarProducto.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Grafico_Clientes.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Grafico_Compras.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_ListaProductos.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Lista_Cliente.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Reportes.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admin_AgregarProveedor.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admin_Agregar_Nuevo_Producto.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.BoletaCompra.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.BoletadeVenta.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Error_Registro.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Form1.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Foto_Perfil_Cliente.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.frmListadeProductos.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.frmRealizarPedidos.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.frmVisualizarPedidos.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Grafico_Ventas.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Lista_Codigos_Productos.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Lista_Codigo_Proveedor.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Login.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Menu_Administrador.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Menu_Cliente.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Home.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Inicio.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_PedidosClientes.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Modificar_Info_Cliente.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Modificar_Stock_Reposicion.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Perfil_Cliente.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.PictureCircular.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Properties.Resources.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Registro.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Salida.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Visualizar_Compras.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.GenerateResource.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\Tienda Elionet.exe.manifest
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\Tienda Elionet.application
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.CopyComplete
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\Tienda Elionet.exe
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Trabajo_Final_Fundamentos_DarioDiaz_u202114038\TrabajoFinal_Fundamentos\obj\Debug\Tienda Elionet.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.exe.config
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.exe.manifest
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.application
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.exe
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\Tienda Elionet.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\EntityFramework.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\itextsharp.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\Negocios.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\Datos.dll
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\Negocios.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\EntityFramework.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\itextsharp.xml
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\bin\Debug\Datos.pdb
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.AssemblyReference.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.ResolveComReference.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_AgregarProducto.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Grafico_Clientes.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Grafico_Compras.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_ListaProductos.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Lista_Cliente.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Reportes.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admin_AgregarProveedor.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admin_Agregar_Nuevo_Producto.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.BoletaCompra.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.BoletadeVenta.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Error_Registro.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Form1.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Foto_Perfil_Cliente.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.frmListadeProductos.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.frmRealizarPedidos.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.frmVisualizarPedidos.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Grafico_Ventas.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Lista_Codigos_Productos.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Lista_Codigo_Proveedor.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Login.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Menu_Administrador.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Menu_Cliente.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Home.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Inicio.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_PedidosClientes.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Modificar_Info_Cliente.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Modificar_Stock_Reposicion.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Perfil_Cliente.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.PictureCircular.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Properties.Resources.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Registro.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Salida.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.Admi_Visualizar_Compras.resources
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.GenerateResource.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\Tienda Elionet.exe.manifest
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\Tienda Elionet.application
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\TrabajoFinal_Fundamentos.csproj.CopyComplete
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\Tienda Elionet.exe
+C:\Users\MARLON\Documents\Progra\DISEÑO SI\Siste de ventas ELIONET\TrabajoFinal_Fundamentos\obj\Debug\Tienda Elionet.pdb

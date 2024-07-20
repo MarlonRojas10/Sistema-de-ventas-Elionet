@@ -1,0 +1,49 @@
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\Tienda Elionet.exe.config
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\Tienda Elionet.exe
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\Tienda Elionet.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\EntityFramework.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\FontAwesome.Sharp.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\Negocios.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\Datos.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\Negocios.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\EntityFramework.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\Datos.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.csproj.AssemblyReference.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.AdmiEliminarProducto.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Admi_AgregarProducto.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Admi_ListaProductos.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Admi_Lista_Cliente.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Error_Registro.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Form1.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.frmListadeProductos.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.frmRealizarPedidos.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.frmVisualizarPedidos.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Login.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Menu_Administrador.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Menu_Cliente.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Home.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Inicio.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Admi_PedidosClientes.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Admi_ModificarProducto.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Perfil_Cliente.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Properties.Resources.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Registro.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Salida.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.csproj.GenerateResource.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.csproj.CopyComplete
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\Tienda Elionet.exe
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\Tienda Elionet.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\ExcelDataReader.DataSet.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\ExcelDataReader.dll
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\ExcelDataReader.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\ExcelDataReader.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\ExcelDataReader.DataSet.pdb
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\bin\Release\ExcelDataReader.DataSet.xml
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.csproj.ResolveComReference.cache
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Cargar_Datos_Excel.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.Foto_Perfil_Cliente.resources
+C:\Users\joaqu\source\repos\TrabajoFinal_Fundamentos\TrabajoFinal_Fundamentos\obj\Release\TrabajoFinal_Fundamentos.PictureCircular.resources
